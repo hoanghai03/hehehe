@@ -211,7 +211,7 @@ li {
 	.profile-card .btn button {
 		width: 300px;
 		height: 100px;
-		border: 10px solid black;
+		border: 5px solid black;
 		border-radius: 7px;
 		cursor: pointer;
 		font-size: 50px;
