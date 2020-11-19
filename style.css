@@ -219,7 +219,7 @@ li {
 		font-weight: bold;
 	}
 	.profile-card .btn button:hover {
-		transform: scale(1.3);
+		transform: scale(1.4);
 	}
 	.profile-card .btn button:last-child:hover {
 		background: #f54336;
